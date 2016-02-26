@@ -1,3 +1,4 @@
-# ozkrleal.github.io
+Restaurant
+==========
 
-welcome
+A template for Restaurant business
