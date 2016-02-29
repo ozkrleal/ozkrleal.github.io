@@ -1,8 +1,4 @@
-/*
 
-Made with love by Creative Tim (http://www.creative-tim.com)
-
-*/
 
 body{
 
@@ -727,7 +723,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 3;
 }
 .main .logo.cursive{
-    font-family: 'Cambria Math',cursive;
+    font-family: 'Cambria Math';
     font-size: 82px;
 
 }
@@ -739,7 +735,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     min-height: 140px;
 }
 .main .motto, .main .subscribe .info-text{
-    font-family: 'Calibri',cursive;
+    font-family: 'Calibri';
     font-size: 28px;
     color: #D2D4D9;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
