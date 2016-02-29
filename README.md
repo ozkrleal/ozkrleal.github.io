@@ -1,4 +1,4 @@
-Restaurant
+VELIFERA
 ==========
 
-A template for Restaurant business
+Web consulting
